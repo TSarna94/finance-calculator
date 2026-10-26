@@ -86,6 +86,6 @@ Through this project, I gained experience with:
 
 ## Author
 
-Tony [Last Name]
+Anthony Sarna
 
 Python Developer | Aspiring Cybersecurity Analyst
